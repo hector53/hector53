@@ -10,14 +10,20 @@
  - Javascript
  - Mysql
  - Mongodb
+ - Postgres
+ - Docker
 
 ***Frameworks***
 
  - Flask, Django
  - Laravel
+ - Nest Js
  - Vue js
  - Quasar js
  - Angular
+ - React
+ - Next Js
+ - Astro
 
 <!---
 hector53/hector53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
