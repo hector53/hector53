@@ -1,31 +1,8 @@
-**👋 Hi, I'm Héctor Acosta, web developer from Venezuela**
+# Héctor Acosta
 
-👀 Soy proactivo, autodidacta, dinámico, curioso, justo y comprometido con mi trabajo y mi equipo. Con experiencia en desarrollo web. En la búsqueda constante de desafíos profesionales que me exijan progresar y llegar al siguiente nivel.
+Product Engineer building SaaS, fintech and AI products that reach production.
 
-**Habilidades y destrezas**
-
- - Python
- - Php
- - Node Js
- - Javascript
- - Mysql
- - Mongodb
- - Postgres
- - Docker
-
-***Frameworks***
-
- - Flask, Django
- - Laravel
- - Nest Js
- - Vue js
- - Quasar js
- - Angular
- - React
- - Next Js
- - Astro
-
-<!---
-hector53/hector53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I work across product discovery, architecture, frontend, backend,
+infrastructure and ongoing operations. I am especially useful when a
+product is complex, still evolving and needs one person capable of
+owning the complete technical path.
